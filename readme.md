@@ -85,6 +85,7 @@
 * **MAE (Long session ≥ 5 actions)**: `6.92`
 
 ### Prediction Histogram
+![image](https://github.com/user-attachments/assets/fb7da7ad-f4d6-4f8c-b66e-92053c2f7520)
 
 ![Prediction Histogram](./Prediction_Histogram.png)
 
